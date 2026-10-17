@@ -1,0 +1,4 @@
+Algorithms solve computational problems.
+Search algorithms help find information.
+Data structures include hash maps and trees.
+Java supports many useful data structures.

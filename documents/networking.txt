@@ -1,0 +1,3 @@
+Computer networking connects devices.
+HTTP is used for communication between clients and servers.
+Network protocols define communication rules.
